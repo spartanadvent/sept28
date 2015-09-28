@@ -1,5 +1,5 @@
 #Gamestore Inventory JS App -
-#### v.005
+#### v.006
 
 ##User Interface Design Reference
 <http://geekwise.github.io/geekwise.js.edc.sept09/user_interface_design_reference.html>
@@ -34,11 +34,27 @@
 * doubletap/click --> change/update_name
     * update "game updates"
 
+# List to incorperate for final project
+* variables
+* functions
+* annonymous functions
+* operators
+* conditions/
+    * if/else, switch/case
+* console/ DOM/ Dynamic DOM
+* loops/while
+* Arrays
+* int/ date / string
+* events
+* listeners
+* elements
+
+
 ##Colors
 
 <http://1drv.ms/1Kjlajv>
 
-![sept18 whiteboard](http://i.imgur.com/lq0QaWum.jpg?1)
+![sept28 whiteboard](http://i.imgur.com/QcfgxNWm.jpg?1)
 
 
 ##Future Features To Add
